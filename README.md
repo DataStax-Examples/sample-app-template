@@ -16,10 +16,8 @@ e.g.
 This application shows how to use configure your NodeJs application to connect to DDAC/Cassandra/DSE or an Apollo database at runtime.
 
 This should be the same as the "description" key in the astra.json file. 
-
-Be sure to include the start building link as the final sentence.
 --->
-{description} [Start Building!](INSTRUCTIONS_LINK)
+{description}
 
 <!--- 
 heroImage example:

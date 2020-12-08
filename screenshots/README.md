@@ -29,3 +29,9 @@
 [Dashboard - Terminate](https://user-images.githubusercontent.com/69874632/101203266-4685ec00-361f-11eb-92ec-e9b3fa5f052d.png)
 
 ## Github Screenshots
+
+[Use Template](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-use-template.png)
+
+[Create Repository](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-create-repository.png)
+
+[Clone](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-clone.png)
