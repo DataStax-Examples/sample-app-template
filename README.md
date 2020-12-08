@@ -1,3 +1,7 @@
+<!--- 
+WARNING: You must remove all comments (except exclusion tags) in your Sample App README.md 
+--->
+
 <!--- Use the below tags to exclude content from the Astra DB UI --->
 <!--- STARTEXCLUDE --->
 <!--- ENDEXCLUDE --->
@@ -5,9 +9,11 @@
 <!--- 
 The Project Name, duration and skillLevel, make sure these values match
 the astra.json
+
+Update the INSTRUCTIONS_LINK with the absolute path to your INSTRUCTIONS.md
 --->
 # {name}
-*{duration}, {skillLevel}*
+*{duration}, {skillLevel}, [Start Building](INSTRUCTIONS_LINK)*
 
 <!---  
 A short few sentences describing what is the purpose of the example and what the user will learn
