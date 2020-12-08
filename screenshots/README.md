@@ -2,31 +2,30 @@
 
 ## Astra Screenshots
 
-[Connect - Overview](https://user-images.githubusercontent.com/69874632/101202697-797bb000-361e-11eb-8ded-6e9b1d94fcac.png)
+[Register - Overview](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-register.png)
 
-[Database - Create Step 1 Top](https://user-images.githubusercontent.com/69874632/101203026-ef801700-361e-11eb-8321-de2d65259763.png)
+[Register - Basic Auth](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-register-basic-auth.png)
 
-[Database - Create Step 1 Bottom](https://user-images.githubusercontent.com/69874632/101203076-0292e700-361f-11eb-88ee-1f6356f4d7dc.png)
+[Login - Overview](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-login.png)
 
-[Database - Create Step 2](https://user-images.githubusercontent.com/69874632/101203115-12aac680-361f-11eb-9087-8ff5cb9516d7.png)
+[Database - Create Step 1 Top](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-top.png)
 
-[Dashboard - Overview](https://user-images.githubusercontent.com/69874632/101203172-23f3d300-361f-11eb-8b13-2c0384daad65.png)
+[Database - Create Step 1 Bottom](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-bottom.png)
 
-[Connect - Overview](https://user-images.githubusercontent.com/69874632/101202697-797bb000-361e-11eb-8ded-6e9b1d94fcac.png)
+[Database - Create Step 2](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-2.png)
 
-[Database - Details](https://user-images.githubusercontent.com/69874632/101203223-3706a300-361f-11eb-8aae-3f43e6551117.png)
+[Database - Details](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-detail.png)
 
-[Organization - Details](https://user-images.githubusercontent.com/69874632/101203638-d75cc780-361f-11eb-839e-84fe792696ec.png)
+[Dashboard - Terminate](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-terminate.png)
 
-[Organization - Management](https://user-images.githubusercontent.com/69874632/101203752-070bcf80-3620-11eb-88c2-33d19848484c.png)
+[Connect - Overview](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-connect.png)
 
-[Login - Overview](https://astra-screenshots.s3.amazonaws.com/current/login.png)
+[Dashboard - Overview](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-dashboard.png)
 
-[Register - Basic Auth](https://astra-screenshots.s3.amazonaws.com/current/register-basic-auth.png)
+[Organization - Management](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-org-manage.png)
 
-[Register - Overview](https://astra-screenshots.s3.amazonaws.com/current/register.png)
+[Organization - Overview](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-org-detail.png)
 
-[Dashboard - Terminate](https://user-images.githubusercontent.com/69874632/101203266-4685ec00-361f-11eb-92ec-e9b3fa5f052d.png)
 
 ## Github Screenshots
 
