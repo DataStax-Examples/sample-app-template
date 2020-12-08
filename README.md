@@ -53,3 +53,81 @@ Replace INSTRUCTIONS_LINK with an absolute path link to your instructions
 --->
 ## Get Started
 To build and play with this app, follow the build instructions that are located here: [INSTRUCTIONS_LINK](INSTRUCTIONS_LINK)
+
+<!--- Everything below Get Started should be excluded from the Astra UI --->
+<!--- STARTEXCLUDE --->
+<!--- ENDEXCLUDE --->
+
+<!--- Enter the repository name --->
+# Running {name}
+Follow the instructions below to get started.
+
+<!--- 
+Modify this section as needed, however always include the Astra setup parts
+--->
+## Prerequisites
+Let's do some initial setup.
+
+### DataStax Astra
+<!--- enter a unique UTM_CODE for your sample app below --->
+1. Create a [DataStax Astra account](https://astra.datastax.com/register?utm_source=github&utm_medium=referral&utm_campaign=UTM_CODE) if you don't 
+already have one:
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-register-basic-auth.png)
+
+2. Create an (always) free-tier Cassandra database (take note of your db password):
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-top.png)
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-bottom.png)
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-2.png)
+
+3. After your database is provisioned, head to the `Connect` screen and copy your connection 
+information (we'll need this later!):
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-connect.png)
+
+### Github
+<!-- Enter your GITHUB_URL below -->
+1. Click `Use this template` at the top of the [GitHub Repository](GITHUB_URL):
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-use-template.png)
+
+2. Enter a repository name and click 'Create repository from template':
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-create-repository.png)
+
+3. Clone the repository:
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-clone.png)
+
+<!--- 
+Include locally as a minimum so that folks will
+create an Astra DB and use your repository as a template.
+
+Remove paths that you don't need.
+--->
+## 🚀 Getting Started Paths:
+*Make sure you've completed the [prerequisites](#prerequisites) before starting this step*
+  - [Running on your local machine](#running-on-your-local-machine)
+  - [Running on Gitpod](#running-on-gitpod)
+  - [Deploying to Vercel](#deploying-to-vercel)
+  - [Deploying to Netlify](#deploying-to-netlify)
+
+<!--- 
+Include the appropriate commands to run the app locally (post cloning). If you're using
+Docker or something similar, include that setup here.
+--->
+### Running on your local machine
+
+
+<!--- 
+Include Gitpod where possible, it provides a good DX for experimentation 
+--->
+### Running on Gitpod
+<!-- Enter your GITPOD_LINK below -->
+1. Click the 'Open in Gitpod' link:
+[![Open in IDE](https://gitpod.io/button/open-in-gitpod.svg)](GITPOD_LINK)
+
+### Deploying to Vercel
+<!-- Enter your VERCEL_URL below -->
+1. Click the 'Deploy' button:
+[![Deploy with Vercel](https://vercel.com/button)](VERCEL_URL)
+
+### Deploying to Netlify
+<!-- Enter your NETLIFY_URL below -->
+1. Click the 'Deploy to Netlify' button:
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](NETLIFY_URL)
