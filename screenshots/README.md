@@ -32,6 +32,8 @@
 
 [Organization - Copy Credentials](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-org-copy-credentials.png)
 
+[Sample App - Default](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-sample-app-default.png)
+
 
 ## Github Screenshots
 
