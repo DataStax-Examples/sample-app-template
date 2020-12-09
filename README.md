@@ -74,14 +74,34 @@ Let's do some initial setup.
 already have one:
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-register-basic-auth.png)
 
-2. Create an (always) free-tier Cassandra database (take note of your db password):
+2. On the home page. Locate the button **`Add Database`**
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-dashboard.png)
+
+3. Pick **free plan** and a **region** close to you, click configure.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-top.png)
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-1-bottom.png)
+
+4. Define a **database name**, **keyspace name** and **credentials** (Take note of the DB Password)
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db-2.png)
 
-3. After your database is provisioned, head to the `Connect` screen and copy your connection 
+5. Your Astra DB will be ready when the status will change from *`Pending`* to **`Active`** 💥💥💥 
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-active.png)
+
+<!--- 
+When connecting via an API, use the connect screen step below
+--->
+6. After your database is provisioned, head to the `Connect` screen and copy your connection 
 information (we'll need this later!):
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-connect.png)
+
+<!--- 
+When connecting with a secure bundle, use the service account steps below
+--->
+7. Locate the combo `Organization: <Your email>` on the top navigation. In the drop down menu, click your current organization.
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-org-menu-open.png)
+
+8. Scroll down to the bottom of the page and locate `Service Account` in `Security Settings` and select `Copy Credentials` as shown below.
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-org-copy-credentials.png)
 
 ### Github
 <!-- Enter your GITHUB_URL below -->
