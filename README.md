@@ -63,7 +63,7 @@ To build and play with this app, follow the build instructions that are located 
 Follow the instructions below to get started.
 
 <!--- 
-Modify this section as needed, however always include the Astra setup parts
+Modify this section as needed, however always include the Astra DB setup parts
 --->
 ## Prerequisites
 Let's do some initial setup by creating a serverless(!) database.
