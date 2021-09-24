@@ -13,6 +13,11 @@
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-active.png)
 
 
+## Create an Astra DB Keyspace
+1. After your database is provisioned, we can create additional Keyspaces by clicking on the `Add Keyspace` button under the `Keyspaces` section on your Astra DB dashboard.
+![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-active.png)
+
+
 ## Create an Application Token
 1. After your database is provisioned, we need to generate an Application Token for our App. Go to the `Settings` tab in the database home screen.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-settings.png)
@@ -21,7 +26,7 @@
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-settings-token.png)
 
 
-## Get a Secure Connect Bundle
+## Get an Astra DB Secure Connect Bundle
 1. After you have your Application Token, head to the database connect screen and select the driver connection that we need. Go ahead and download the `Secure Bundle` for the driver.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-connect-bundle.png)
 
@@ -29,6 +34,6 @@
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-connect-bundle-driver.png)
 
 
-## Get Astra DB Connection Settings
+## Get your Astra DB Connection Settings
 1. Head to the database connect screen and copy the connection information that we'll need later. We'll replace `ASTRA_DB_APPLICATION_TOKEN` with the `Token` value that is part of your Application Token.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-connect.png)
