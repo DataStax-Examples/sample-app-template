@@ -3,13 +3,10 @@
 1. On the home page. Locate the button **`Create Database`**
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-dashboard.png)
 
-2. Locate the **`Get Started`** button to continue
-![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-select-plan.png)
-
-3. Define a **database name**, **keyspace name** and select a database **region**, then click **create database**.
+2. Define a **database name**, **keyspace name** and select a database **region**, then click **create database**.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-create-db.png)
 
-4. Your Astra DB will be ready when the status will change from *`Pending`* to **`Active`** 💥💥💥 
+3. Your Astra DB will be ready when the status will change from *`Pending`* to **`Active`** 💥💥💥 
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-active.png)
 
 
