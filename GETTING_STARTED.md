@@ -16,7 +16,7 @@
 
 
 ## Create an Application Token
-1. After your database is provisioned, we need to generate an Application Token for our App. Go to the `Settings` tab in the database home screen.
+1. After your database is provisioned, we need to generate an Application Token for our App. Go to the `Organization Settings` link in the organization menu on the top left of the Dashboard screen.
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-db-settings.png)
 
 2. Select `Database Admin` for the role for this Sample App and then generate the token. Download the CSV so that we can use the credentials we need later.
